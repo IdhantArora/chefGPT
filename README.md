@@ -23,5 +23,4 @@ This chatbot helps you with:
 
 ---
 
-## 🧱 Architecture
 
