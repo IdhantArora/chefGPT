@@ -1,5 +1,7 @@
 # chefGPT
 
+- Use your custom groq and huggingface api key
+
 # 🍳 Cooking Assistant Chatbot
 
 An AI-powered **Cooking Assistant** chatbot built using **LangChain**, **Groq Llama3-8b**, **Chroma**, and **Gradio**.
